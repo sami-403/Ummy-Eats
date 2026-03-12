@@ -20,10 +20,11 @@
     "dev": "nodemon index.js"
   },
   "dependencies": {
+    "@sequelize/core": "^7.0.0-alpha.42",
+    "@sequelize/sqlite3": "^7.0.0-alpha.48",
     "dotenv": "^17.3.1",
     "ejs": "^5.0.1",
     "express": "^5.2.1",
-    "mongoose": "^9.3.0",
     "nodemon": "^3.1.14"
   }
 }
